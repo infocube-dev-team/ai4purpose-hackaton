@@ -1,0 +1,7 @@
+Weather Risk Report
+===================
+Total Risky Points: 2373191
+wind_risk: 635275
+rain_risk: 584933
+heat_risk: 10865
+cold_risk: 1517765

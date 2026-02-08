@@ -1,0 +1,5 @@
+lat,lon,risk_type,risk_score,step
+41.75,14.0,cold_risk,1.0,0 days 00:00:00
+41.75,14.0,cold_risk,1.0,0 days 03:00:00
+41.75,13.75,cold_risk,1.0,0 days 06:00:00
+41.75,14.0,cold_risk,1.0,0 days 06:00:00
